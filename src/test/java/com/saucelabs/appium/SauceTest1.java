@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class SauceTest1 {
 
   public static final String USERNAME   = "sandeepmiriyala";
-  public static final String ACCESS_KEY = "1dc3e559-ba25-4e89-a4da-be9f3516eb30";
+  public static final String ACCESS_KEY = "<Provide Access Key Here>"
   public static final String URL        = "http://"
                                             + USERNAME
                                             + ":"
